@@ -15,6 +15,7 @@ public class HelloGitHub {
 	public static void main(String[] args) {
 
 		System.out.println("Hello Github I am Xudong Liu 刘旭东！");
+		System.out.println("Hello edit from github");
 
 	}
 
